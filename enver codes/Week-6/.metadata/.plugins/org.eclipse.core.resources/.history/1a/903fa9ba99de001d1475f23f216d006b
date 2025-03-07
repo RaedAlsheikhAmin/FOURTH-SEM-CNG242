@@ -1,0 +1,14 @@
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+           Stacky s1=new Stacky(10);
+           s1.pop();
+           
+           for(int i=0;i<10;i++)
+        	   s1.push(i*i);
+           s1.push(100);
+	}
+
+}

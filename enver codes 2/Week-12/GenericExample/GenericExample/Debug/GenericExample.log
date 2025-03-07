@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\enver\Desktop\Week-12\GenericExample\GenericExample\main.cpp(6,21): warning C4101: 'b2': unreferenced local variable
+C:\Users\enver\Desktop\Week-12\GenericExample\GenericExample\main.cpp(5,19): warning C4101: 'b1': unreferenced local variable
+  GenericExample.vcxproj -> C:\Users\enver\Desktop\Week-12\GenericExample\Debug\GenericExample.exe

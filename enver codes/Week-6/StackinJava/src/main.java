@@ -1,0 +1,28 @@
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+           Stacky s1=new Stacky(10);
+           s1.pop();
+           
+           for(int i=0;i<10;i++)
+        	   s1.push(i*i);
+           s1.push(100);
+           s1.sprint();
+           
+           
+           Stacky s2=new Stacky(10);    
+           for(int i=0;i<10;i++)
+        	   s2.push(i*i);
+           s2.sprint();
+           
+           if (s1==s2) System.out.println("Check1:Equal stacks");
+           else System.out.println("Check1: Not Equal");
+           
+           if (s1.myequals(s2)) System.out.println("Check2:Equal stacks");
+           else System.out.println("Check2:Not Equal");
+            
+	}
+
+}

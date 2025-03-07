@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\enver\Desktop\Week-11\Operatoroverloading\Operatoroverloading\Source.cpp(41,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Operatoroverloading.vcxproj -> C:\Users\enver\Desktop\Week-11\Operatoroverloading\x64\Debug\Operatoroverloading.exe

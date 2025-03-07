@@ -1,0 +1,10 @@
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+           Stacky s1=new Stacky(10);
+           s1.pop();
+	}
+
+}

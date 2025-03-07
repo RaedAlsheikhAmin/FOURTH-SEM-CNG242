@@ -1,0 +1,3 @@
+C:/Users/enver/Desktop/Week-6/StackinC2/cmake-build-debug/CMakeFiles/StackinC2.dir
+C:/Users/enver/Desktop/Week-6/StackinC2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/enver/Desktop/Week-6/StackinC2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
